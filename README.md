@@ -1,4 +1,7 @@
-# Basic Sample Hardhat Project
+# myFirstDapp Tutorial credits to Moralis.io
+- This tutorial was done from their youtube : [https://www.youtube.com/watch?v=MI_Se26Sfmo&t=3437s](url)
+
+## Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
